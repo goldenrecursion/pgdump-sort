@@ -1,0 +1,8 @@
+[tool.poetry]
+authors = ["Golden <team@golden.com>"]
+description = "sort pg_dump files"
+name = "pgdump-sort"
+version = "0.0.0"
+
+[tool.poetry.dependencies]
+docopt = "^0.6.2"
